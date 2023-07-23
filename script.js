@@ -51,5 +51,5 @@
                 checkweather(searchbox.value);
             })
         
-            
+           
   
